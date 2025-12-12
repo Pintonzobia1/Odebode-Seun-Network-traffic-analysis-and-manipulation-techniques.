@@ -1,6 +1,8 @@
 Network Traffic Analysis and Manipulation Techniques
 Author: Odebode Seun
-Date: December 12, 2025
+
+
+
 This repository documents various techniques for network traffic analysis and manipulation using tools like Nmap and Scapy. The focus is on host discovery, OS fingerprinting, aggressive scanning, SMB enumeration, and basic packet sniffing. All activities were performed in a controlled lab environment for educational purposes. Important: Always obtain permission before scanning networks, as unauthorized scanning may be illegal.
 Objectives
 
